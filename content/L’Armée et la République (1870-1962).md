@@ -1,0 +1,39 @@
+***
+# L’Armée et la République (1870-1962)
+***
+- cf. [[Pétain]]
+- Paradoxe : l’armée est censée être neutre et soumise. Contradiction entre le fonctionnement hiérarchique de l’institution (commandement par ordre) et la volonté de démocratisation portée par la République. Cléricalisme de l’armée. 
+- Armée loyaliste vis à vis de la République. Les royalistes se rangent derrière les républicains <u>Ex</u> : général TROCHU 
+- Spécificité de l’armée française = on fait carrière dans les colonies <u>Ex</u> : CHANZY, FAIDHERBE 
+- Les nobles ne sont pas majoritaires dans le haut commandement mais les valeurs aristocratiques sont omniprésentes. 
+- 1872 : Loi CISSEY ⇒ l’armée devient la « grande muette » (pas le droit de vote jusqu’en 1945)
+- 1879 : Épuration du haut commandement. Mac MAHON démissionne car refuse de mettre à la retraite des généraux conservateurs. 
+- 1891 : LYAUTEY, *Le rôle social de l’officier* (puis est résident général au Maroc = poste dans la fonction publique très prestigieux)
+- Exemple de DENFERT-ROCHEREAU = général républicain qui défend Belfort en 1870 
+- Figure du général BOULANGER = politique de républicanisation de l’armée (à l’origine de la loi de 1889 = « loi des curés sac au dos » car supprime pas mal d’ exemptions)
+- Exemple de général très conservateur = général de CASTELNAU (sert en Alsace pendant WWI, organise la Fédération nationale catholique, nommé chef d’État major en 1915)
+- 1913 : Politique de démocratisation de l’armée (loi de 3 ans) ⇒ on se rapproche de la conception de JAURÈS (cf. *L’Armée nouvelle*, image de la levée en masse par opposition à l’armée de métiers) = armée de soldats citoyens 
+- L’armée s’identifie à la République grâce aux politiques coloniales depuis 1880s (car l’armée est active)
+- WWI = tournant car on se demande comment la République peut mener la guerre (cf. SEMBAT)
+- Donc « dictature de CHANTILLY » par le GQG
+- Journal *Le Crapouillot* qui avertit en 1917 que les soldats sont d’abord des « soldats citoyens »
+- Armée = institution de socialisation à la République 
+- Affaire Dreyfus = exemple paradigmatique de l’opposition et du décalage entre le fonctionnement hiérarchique de l’armée et du fonctionnement de l’institution démocratique (consentement et transparence, droits de l’homme) ⇒ la question pour la plupart des anti-dreyfusards = raison d’État <u>Ex</u> : le faux patriotique de l’officier Hubert HENRY 
+- Alliance du trône et de l’autel ⇒ l’épée et le goupillon 
+- E2G = pas vraiment de rupture, État-major toujours conservateur 
+- Parler des Croix-de-feu ⇒ politisation de « la grande muette »
+- 6 février 1934 : gendarmes défendent les ponts de Paris, le Palais Bourbon + 2 bataillons de réserves mais qui n’interviennent 
+- PÉTAIN et la guerre du Rif (les ouvriers communistes sabotent le matos des soldats, préfigure le sentiment d’abandon après 1945)
+- 1940 ⇒ généraux incompétents, tout le monde le sait ⇒ PÉTAIN fait de la défaite une défaite morale et politique pour sauver l’honneur de l’Armée et l’armée se soude autour de l’État français par loyalisme (et car le maréchal les exonère de la responsabilité)
+- CDG est alors le traître absolu ⇒ il trahit et il est lâche (il abandonne la FR), l’*ethos* aristocratique et loyaliste de l’armée joue à plein 
+- Drame de Mers-el-Kebir 
+- Essor d’autres figures militaires dans la résistance <u>Ex</u> : CDG, LECLERC et la deuxième DB, De LATTRE DE TASSIGNY 
+- Henri FRENAY = exemple d’officier vichysto-résistant 
+- Les guerres coloniales de la République après 1945 : armée davantage professionnelle (parachutistes, légionnaires, troupes coloniales) et surtout plus indépendante politique car c’est son terrain à elle ! ⇒ elle essaye de racheter son image 
+- Thierry d’ARGENLIEU envoyé par CDG pour géré la reprise en main de l’Indochine en 1945 ⇒ prêtre Carme, pour lui communisme = nazisme donc la question indochinoise devient une question de principe ⇒ il commence la guerre d’Indochine tout seul comme un grand, contre les ordres en métropole
+- Dien Bien Phu = catastrophe humiliante pour l’armée mais l’opinion en a rien à foutre ! Donc les militaires entrent dans la guerre d’Algérie en se disant cette fois on va la gagner ! 
+- Rôle tampon de l’armée entre les arabes et les colons (qui sont au départ hostiles à l’armée considérant qu’elle protège les arabes)
+- 1958 : Opération Résurrection 
+- 1961 : Putsch des généraux ⇒ CDG en uniforme à la TV 
+- 1961 : Le FLN a perdu la guerre, rapport de force ⇒ 1962 = défaite politique, ils ont gagné mais le pouvoir politique leur refuse la victoire ⇒ l’armée perd toute volonté d’action indépendante ⇒ la décolonisation fait disparaître leur champ d’autonomie 
+- Barbouzes + opérations légales 
