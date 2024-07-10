@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Wittgenstein",
-        body: Wittgenstein",
+        body: "Wittgenstein",
         code: "Wittgenstein",
       },
       colors: {
