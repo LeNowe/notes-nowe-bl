@@ -1,7 +1,7 @@
 ---
 {}
 ---
-De : [[content/index|🏠 ACCUEIL]]
+De : [[content/index|index]]
 
 # 🏦 ÉCONOMIE
 > Ta gueule je trace une courbe.

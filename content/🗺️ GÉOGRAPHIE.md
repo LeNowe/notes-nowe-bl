@@ -1,7 +1,7 @@
 ---
 {}
 ---
-De : [[content/index|🏠 ACCUEIL]]
+De : [[content/index|index]]
 # 🗺️Géographie
 
 
