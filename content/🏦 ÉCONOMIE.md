@@ -1,4 +1,4 @@
-De : [[🏠 ACCUEIL]]
+De : [[content/index|🏠 ACCUEIL]]
 
 # 🏦 ÉCONOMIE
 > Ta gueule je trace une courbe.

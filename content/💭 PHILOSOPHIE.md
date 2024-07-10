@@ -1,4 +1,4 @@
-De : [[🏠 ACCUEIL]]
+De : [[content/index|🏠 ACCUEIL]]
 
 # 💭 PHILOSOPHIE
 
