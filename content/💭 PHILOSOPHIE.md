@@ -1,12 +1,11 @@
----
-{}
----
 De : [[content/index|🏠 ACCUEIL]]
 
 # 💭 PHILOSOPHIE
 
 Si besoin : sophietrinquier52@gmail.com 
 ## Cours 
+
+{{title}} 
 
 ### Hypo 
 
