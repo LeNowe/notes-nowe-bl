@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Chapitre 11 : La tarification et le pouvoir de marché
 ***

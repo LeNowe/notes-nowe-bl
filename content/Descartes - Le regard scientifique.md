@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # DESCARTES : LE REGARD SCIENTIFIQUE
 ***

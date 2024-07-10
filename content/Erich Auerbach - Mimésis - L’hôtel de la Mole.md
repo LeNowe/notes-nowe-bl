@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Erich Auerbach - *Mimésis* : « L’hôtel de la Mole »
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 De : [[content/index|index|🏠 ACCUEIL]]
 # 🗺️Géographie
 

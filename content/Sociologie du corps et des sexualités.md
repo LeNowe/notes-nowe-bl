@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Sociologie du corps et des sexualités
 ***

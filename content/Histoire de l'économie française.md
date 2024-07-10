@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Histoire de l’économie française
 ***

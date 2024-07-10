@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 20 - Martin Luther King, « I have a dream » ( 1963 )
 ***

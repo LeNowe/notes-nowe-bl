@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Écriture et désirs, pouvoirs de l’image et représentation
 - [ ] BARTHES, *Le plaisir du texte* (https://dygest.co/roland-barthes/le-plaisir-du-texte)

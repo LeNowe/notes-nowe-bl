@@ -1,3 +1,6 @@
+---
+{}
+---
 LE POUVOIR DE LA FINANCE
 
 André ORLEAN

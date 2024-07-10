@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Identité et métamorphoses - Ecritures du déplacement dans l’œuvre d’Henri Michaux 
 Source : http://www.maulpoix.net/deplacement.html#Les%20voyages%20r%C5%BDels

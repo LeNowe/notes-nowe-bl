@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Khôlle SES - L’Etat et le bien être collectif
 ***

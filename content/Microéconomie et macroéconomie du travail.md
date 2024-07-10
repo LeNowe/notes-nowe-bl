@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Microéconomie et macroéconomie du travail 
 ***

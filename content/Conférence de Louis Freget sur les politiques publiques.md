@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Science des politiques publiques
 Contact du conférencier : louis.freget@econ.ku.dk 

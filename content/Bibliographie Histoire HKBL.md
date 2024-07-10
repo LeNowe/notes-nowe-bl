@@ -1,3 +1,6 @@
+---
+{}
+---
 # Bibliographie histoire HKBL 
 
 Francis Démier, *La France du XIXème siècle*

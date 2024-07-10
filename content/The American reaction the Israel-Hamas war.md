@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # The American reaction Israel-Hamas war
 ***

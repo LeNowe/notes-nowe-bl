@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Eléments de cours : Nietzsche et la morale
 ***

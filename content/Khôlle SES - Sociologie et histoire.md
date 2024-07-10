@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Khôlle SES - Sociologie et histoire
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Hegel - *Phénoménologie de l’Esprit* 
 ***

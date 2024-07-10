@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # S’affronter ou coopérer ?
 **Reprise** : 

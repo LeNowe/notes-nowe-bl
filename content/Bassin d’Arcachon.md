@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Le bassin d’Arcachon
 ***

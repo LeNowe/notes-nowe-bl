@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 8 - President Jackson - *A Veto message regarding the Bank of the United States* ( 1832 )
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Plan de *L’Invention de la démocratie* : La naissance du modèle républicain 1870-1914
 ***

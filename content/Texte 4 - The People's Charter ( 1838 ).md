@@ -1,3 +1,6 @@
+---
+{}
+---
 # Text 4 - The People’s Charter ( 1838 )
 
 ## Introduction 

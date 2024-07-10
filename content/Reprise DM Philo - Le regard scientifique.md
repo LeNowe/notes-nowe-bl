@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Reprise DM Philo - « Le regard scientifique »
 ***

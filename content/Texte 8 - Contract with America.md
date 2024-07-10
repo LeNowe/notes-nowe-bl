@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Contract with America
 ***

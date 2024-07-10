@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Le travail en France depuis 1945
 ***

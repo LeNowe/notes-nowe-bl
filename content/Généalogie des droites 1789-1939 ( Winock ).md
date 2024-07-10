@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Généalogie des droites 1789 - 1939 ( Winock, *La France politique* )
 ***

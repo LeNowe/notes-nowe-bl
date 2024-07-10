@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Woodrow Wilson, *The New Freedom*, 1913
 ***

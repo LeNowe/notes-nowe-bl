@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Méthode du sujet-notion - Le Miracle 
 ***

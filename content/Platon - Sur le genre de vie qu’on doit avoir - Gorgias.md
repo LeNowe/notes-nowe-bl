@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Platon, *Le Gorgias* : *Nomos* et *phusis* 
 ***

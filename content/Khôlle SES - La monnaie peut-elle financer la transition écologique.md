@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Khôlle SES - La monnaie peut-elle financer la transition écologique ? 
 **Source** : [[la_monnaie_peut-elle_financer_la_transition_environnementale (2).pdf]]. Le texte suivant est celui la khôlle de Louis. 

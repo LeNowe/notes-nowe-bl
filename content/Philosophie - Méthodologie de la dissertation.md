@@ -1,3 +1,6 @@
+---
+{}
+---
 # Philosophie - Méthodologie de la dissertation 
 
 ## La préparation d’une dissertation 

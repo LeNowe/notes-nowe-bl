@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # The mug shot and trumpism
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # The presidential election in the US
 ***

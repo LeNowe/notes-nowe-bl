@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # *La France des 13 régions* - Nouvelle Aquitaine
 ***

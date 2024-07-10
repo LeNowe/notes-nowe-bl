@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’institutionnalisation de la sociologie 
 ***

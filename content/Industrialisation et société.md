@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # <span style="color:#B80000">I</span><span style="color:#B81F00">N</span><span style="color:#B83F00">D</span><span style="color:#B85E00">U</span><span style="color:#B87E00">S</span><span style="color:#B89D00">T</span><span style="color:#B2B800">R</span><span style="color:#93B800">I</span><span style="color:#73B800">A</span><span style="color:#54B800">L</span><span style="color:#34B800">I</span><span style="color:#15B800">S</span><span style="color:#00B80A">A</span><span style="color:#00B82A">T</span><span style="color:#00B849">I</span><span style="color:#00B869">O</span><span style="color:#00B888">N</span> <span style="color:#00B8A8">E</span><span style="color:#00A8B8">T</span> <span style="color:#0088B8">S</span><span style="color:#0069B8">O</span><span style="color:#0049B8">C</span><span style="color:#002AB8">I</span><span style="color:#000AB8">É</span><span style="color:#1500B8">T</span><span style="color:#3400B8">É</span> <span style="color:#5400B8">1</span><span style="color:#7300B8">8</span><span style="color:#9300B8">7</span><span style="color:#B200B8">0</span> <span style="color:#B8009D">-</span> <span style="color:#B8007E">1</span><span style="color:#B8005E">9</span><span style="color:#B8003F">3</span><span style="color:#B8001F">9</span>
 **Sources** : Denis WORONOFF, *L’Industrie en France* 

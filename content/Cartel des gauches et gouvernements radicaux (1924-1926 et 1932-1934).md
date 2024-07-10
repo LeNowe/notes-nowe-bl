@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Cartel des gauches et gouvernements radicaux ( 1924-1926 et 1932-1934 )
 Source : *Histoire des gauches* ( T2 ) Berstein ( dir. )

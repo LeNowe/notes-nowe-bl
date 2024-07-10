@@ -1,3 +1,6 @@
+---
+{}
+---
 Magna Carta, same beginning 
 Greeting then Enumeration of the 13 colonies 
 = show of strength

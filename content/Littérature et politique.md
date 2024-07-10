@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Penser l’Histoire et la politique en littérature 
 - [ ] Ficher les passages politiques dans le textes critiques et théoriques 

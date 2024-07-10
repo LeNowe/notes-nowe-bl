@@ -1,3 +1,6 @@
+---
+{}
+---
 - [ ] Définition d’une classe sociale
 - [ ] Lire la conclusion de *La France politique* de Winock 
 ***

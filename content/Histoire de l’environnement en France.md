@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Histoire de l’environnement en France (1870-1995)
 **Source** : Alexis Vrignon, *France grise. France verte* 

@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Prologue par Serge Berstein 
 
 La chute du Second Empire redistribue les cartes du jeu politique français. La synthèse de l’Empire entre **tradition**, **libéralisme** et **démocratie** est remise en question. La crainte d’un retour au césarisme ou à l’Ancien régime pousse les monarchistes et républicains à instaurer une **république conservatrice**.

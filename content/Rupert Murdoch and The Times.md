@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Rupert Murdoch and The Times
 ***

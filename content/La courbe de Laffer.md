@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La courbe de Laffer
 ***

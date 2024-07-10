@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 1 - The Declaration of Independence ( 1776 )
 ***

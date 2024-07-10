@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 6 - Kentucky Resolutions ( 1798 )
 ***

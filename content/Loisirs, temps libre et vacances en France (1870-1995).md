@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Loisir, temps libre et vacances en France (1870-1995)
 ***

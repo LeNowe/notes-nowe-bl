@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les espaces forestiers dans la mondialisation
 ***

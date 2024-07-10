@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Sociologie économique
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Rationalité, anticipations et croyances
 ***

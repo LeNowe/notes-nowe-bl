@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Khôlle de SES - 2 : « A quoi servent les statistiques ? »
 ***

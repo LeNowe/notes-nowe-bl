@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Diogène de Sinope - « La Nature contre les conventions sociales »
 ***

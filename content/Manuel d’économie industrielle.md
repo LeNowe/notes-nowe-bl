@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Manuel d’économie industrielle
 ***

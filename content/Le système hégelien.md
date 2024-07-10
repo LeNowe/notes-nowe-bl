@@ -1,3 +1,6 @@
+---
+{}
+---
 INTRODUCTION : LE MESSAGE HÉGÉLIEN  
 
 **1. Pensée et réalité**

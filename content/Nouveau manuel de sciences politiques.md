@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Nouveau manuel de sciences politiques
 ***

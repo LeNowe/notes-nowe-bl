@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Hélène Périvier, *L’économie féministe*
 **Source** : [[Périvier L'économie féministe.pdf]] 

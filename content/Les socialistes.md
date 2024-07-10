@@ -1,3 +1,6 @@
+---
+{}
+---
 - [ ] Lire la partie sur l’histoire du parti après 1971 « Une mutation avortée » et sur « La difficile greffe chrétienne » 
 ***
 # Les socialistes 

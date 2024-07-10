@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 21 : Lyndon Johnson, « Remarks at the University of Michigan » ( 22 may 1964 )
 ***

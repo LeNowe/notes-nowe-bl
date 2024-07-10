@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # The Supreme Court in the US
 ***

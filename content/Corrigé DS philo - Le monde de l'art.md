@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé DS Philo - Le monde de l’art 
 ***

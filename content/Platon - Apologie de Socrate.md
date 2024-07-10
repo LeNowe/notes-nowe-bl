@@ -1,3 +1,6 @@
+---
+{}
+---
 
 ***
 # Platon, *L'Apologie de Socrate*

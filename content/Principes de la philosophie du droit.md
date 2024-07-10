@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Hegel, *Principes de la philosophie du droit*
 ***

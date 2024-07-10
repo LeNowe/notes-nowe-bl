@@ -1,3 +1,6 @@
+---
+{}
+---
 # Texte 7 - Charles Dickens, « A Walk in a Workhouse »,  *Household Worlds* 
 
 ## Introduction 

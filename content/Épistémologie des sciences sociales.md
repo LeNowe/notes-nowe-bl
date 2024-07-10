@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Cours introductif : Épistémologie des sciences sociales 
 ***

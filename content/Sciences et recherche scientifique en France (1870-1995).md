@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Sciences et recherche scientifique en France (1870-1995)
 ***

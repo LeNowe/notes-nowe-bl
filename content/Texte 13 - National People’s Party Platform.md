@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 13 - National People’s party Platform <br>( 1892 )
 ***

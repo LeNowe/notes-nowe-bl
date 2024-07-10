@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # « No admittance except on business » : ouvrir la boîte noire de l’entreprise capitaliste ? 
 <center><b>Économie et sociologie de l’entreprise </b></center>

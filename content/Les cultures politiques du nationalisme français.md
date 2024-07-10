@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les cultures politiques du nationalisme français
 Source : Berstein, *Culture politique en France*

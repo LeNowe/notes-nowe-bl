@@ -1,3 +1,6 @@
+---
+{}
+---
 De : [[content/index|🏠 ACCUEIL]]
 
 # 🌆 SOCIOLOGIE

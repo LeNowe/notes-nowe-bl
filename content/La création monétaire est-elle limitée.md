@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La création monétaire est-elle limitée ? 
 ***

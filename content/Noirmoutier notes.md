@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Le marais 
 
 **Marais mouillé** = ? ( ≠ asséché ) constitué d’un marais salant car présence d’œillets alimentée par canaux et étiers. C’est un **paysage fossile**. 

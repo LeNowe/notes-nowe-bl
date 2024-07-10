@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 15 - Booker T. Washington, *Atlanta Adress* ( 1895 )
 ***

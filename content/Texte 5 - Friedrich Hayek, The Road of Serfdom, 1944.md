@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Friedrich Hayek, *The Road to Serfdom*, 1944
 ***

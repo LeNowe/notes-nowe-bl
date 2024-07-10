@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La Rochefoucauld, Nos vertus, « vices déguisés », *Maximes et réflexions diverses*
 ***

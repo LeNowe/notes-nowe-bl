@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les dieux, la divinité, le « dieu ». <br>Mythologie, théologie et métaphysique chez Platon 
 **Source** : [[Dieu chez Platon.pdf]] 

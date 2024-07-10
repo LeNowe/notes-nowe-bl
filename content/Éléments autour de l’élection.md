@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Éléments sur l’élection
 ***

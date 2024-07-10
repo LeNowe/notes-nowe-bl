@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les territoires de la pauvreté
 ***

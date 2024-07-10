@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Monnaie et politique monétaire 
 ***

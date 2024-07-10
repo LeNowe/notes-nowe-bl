@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Croyances et pratiques religieuses de 1870 à 1995
 ***

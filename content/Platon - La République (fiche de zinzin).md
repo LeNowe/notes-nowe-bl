@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Platon, *La République*
 ***

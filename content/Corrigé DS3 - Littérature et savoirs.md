@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé DS3 - Littérature et savoirs
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les indicateurs et la construction des catégories d’analyse en économie
 ***

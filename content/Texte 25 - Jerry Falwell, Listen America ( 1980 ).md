@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 25 - Jerry Falwell, *Listen America* ( 1980 )
 ***

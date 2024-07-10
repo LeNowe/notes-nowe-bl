@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 22 - Malcolm X, « The Black Revolution » ( 1965 )
 ***

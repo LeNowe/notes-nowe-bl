@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Protéger les espaces forestiers
 ***

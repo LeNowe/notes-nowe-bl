@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Samuel Smiles, *Self-help*, 1859
 ***

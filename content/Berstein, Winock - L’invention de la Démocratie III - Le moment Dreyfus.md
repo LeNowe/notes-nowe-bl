@@ -1,3 +1,6 @@
+---
+{}
+---
 
 ## I. Le moment Dreyfus et l’approfondissement d’une culture politique républicaine
 

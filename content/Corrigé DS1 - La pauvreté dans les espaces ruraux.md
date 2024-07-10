@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé DS1 - La pauvreté dans les espaces ruraux 
 ***

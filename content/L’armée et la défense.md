@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’armée et la défense 
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Des espaces ruraux méditerranéens sur la carte de Saint Martin de Crau
 ***

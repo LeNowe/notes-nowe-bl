@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vassevière et Toursel - Chapitre 5 : L’écriture et ce qui s’y joue 
 
 ## Barthes, *Le Degré zéro de l’écriture*

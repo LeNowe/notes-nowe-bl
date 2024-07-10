@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 20 - David Cameron, « Big society can fight poverty. Big government just fuels it. »
 ***

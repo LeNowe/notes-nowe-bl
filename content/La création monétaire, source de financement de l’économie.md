@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La création monétaire : <br>source de financement de l’économie
 ***

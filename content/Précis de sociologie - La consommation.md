@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Précis de sociologie : La consommation
 ***

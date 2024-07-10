@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Rousseau - *Du contrat social*
 ***

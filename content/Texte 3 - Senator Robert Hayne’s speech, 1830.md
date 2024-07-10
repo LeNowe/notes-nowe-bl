@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 3 et 4  - Senator Robert Hayne v. Daniel Webster 
 ***

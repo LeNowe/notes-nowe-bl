@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Thomas Piketty, *Le Capital au XXIème siècle*
 ***

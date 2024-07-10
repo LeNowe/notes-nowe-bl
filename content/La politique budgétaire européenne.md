@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La politique budgétaire européenne 
 **Source** : fiche de Claire Joigneaux HKBL

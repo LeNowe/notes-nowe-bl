@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Petites fiches biographiques
 ***

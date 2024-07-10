@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Exemplier littérature et politique
 ***

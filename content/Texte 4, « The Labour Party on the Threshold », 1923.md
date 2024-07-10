@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Sidney Webb, « The Labour Party on the Threshold », 1923
 ***

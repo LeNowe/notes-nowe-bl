@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Dette publique et politique budgétaire
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’économie de la réglementation
 **Source** : [[Economie de la réglementation.pdf]]

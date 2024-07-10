@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les anciens combattants (1914-1939)
 ***

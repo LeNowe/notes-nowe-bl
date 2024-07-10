@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 4 : Jackson’s Case for the Removal Act ( 1831 )
 ***

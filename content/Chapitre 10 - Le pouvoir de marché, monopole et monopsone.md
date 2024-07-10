@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Chapitre 10 : Le pouvoir de marché, <br>monopole et monospone
 ***

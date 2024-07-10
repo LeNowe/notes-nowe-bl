@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Forêt de Verdun (carte IGN)
 ***

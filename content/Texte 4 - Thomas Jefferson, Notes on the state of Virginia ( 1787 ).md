@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 4 - Thomas Jefferson, *Notes on the state of Virginia* ( 1787 )
 ***

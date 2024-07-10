@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Walter Benjamin - *L’Oeuvre d’art à l’époque de sa reproductibilité technique*
 ***

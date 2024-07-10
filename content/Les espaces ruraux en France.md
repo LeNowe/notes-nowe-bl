@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les espaces ruraux en France
 ***

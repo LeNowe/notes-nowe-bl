@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les jurys de sciences sociales
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ⚠ la mesure précise du temps sert aux transports *i.e* à calculer la longitude pour les bateaux et à coordonner les trains. 
 
 H.MANDRAS, *La fin des paysans* = fin paysannerie traditionnelle qui s’organise selon cycles saisonniers. Désormais montre à gousset. Il gère son temps comme un chef d’entreprise. 

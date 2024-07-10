@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Carte d’Aigues-Mortes
 ***

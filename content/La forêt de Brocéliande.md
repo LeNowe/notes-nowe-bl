@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La forêt de Brocéliande-Paimpont
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Thème grammatical 
 
 1. Depuis qu’il travaille comme directeur des ressources humaines dans cette entreprise, il essaie d’améliorer ses compétences en communication.

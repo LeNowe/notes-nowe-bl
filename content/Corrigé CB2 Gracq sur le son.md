@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé - CB2 Gracq sur le mot 
 ***

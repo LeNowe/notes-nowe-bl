@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 <center><h2>Y a-t-il des limites à l’extension des rapports marchands ?</h2></center>
 

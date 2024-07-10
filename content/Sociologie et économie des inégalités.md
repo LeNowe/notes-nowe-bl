@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Sociologie et économie des inégalités
 ***

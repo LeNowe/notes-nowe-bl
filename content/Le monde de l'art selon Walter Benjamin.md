@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # LE MONDE DE L’ART 
 <center>selon Walter Benjamin</center>

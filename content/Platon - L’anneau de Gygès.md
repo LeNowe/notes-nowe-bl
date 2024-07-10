@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Platon, « L’anneau de Gygès », *La République*, livre II
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé DS2 - Littérature et politique
 - [ ] ajouter les références à [[Exemplier de littérature]] 

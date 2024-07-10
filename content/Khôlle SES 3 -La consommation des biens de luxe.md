@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Introduction 
 
 « Le superflu, chose très nécessaire » écrivait Voltaire. Cet énoncé recouvre parfaitement la caractère apparemment paradoxal ou du moins provocant du luxe. En effet, à bien des égards, le bien de luxe paraît superfétatoire, superficiel, inutile et même grossièrement démesuré. Les figures de la grande bourgeoisie parisienne, de la *Jet-Set* ou des ultrariches forment autant de représentations sociales qui interrogent les dépenses de ces individus et de ces groupes sociaux. Comment peut-on rendre compte de la consommation de biens de luxe.

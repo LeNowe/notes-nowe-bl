@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Gunther Anders, *L’Obsolescence de l’homme*
 ***

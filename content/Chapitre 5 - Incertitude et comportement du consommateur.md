@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Chapitre 5 : Incertitude et comportement du consommateur 
 

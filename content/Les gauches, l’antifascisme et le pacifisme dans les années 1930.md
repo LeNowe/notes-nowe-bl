@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les gauches, l’antifascisme et le pacifisme dans les années 1930
 **Source** : *Histoire des gauches*

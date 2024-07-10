@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La Gauche en France - Michel Winock
 ***

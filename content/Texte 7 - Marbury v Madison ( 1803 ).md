@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 7 - Marbury v Madison ( 1803 )
 ***

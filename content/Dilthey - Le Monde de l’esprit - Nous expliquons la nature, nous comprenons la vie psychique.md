@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Wilhelm Dilthey, *Le Monde de l’esprit* - « Nous expliquons la nature, nous comprenons la vie psychique »
 ***

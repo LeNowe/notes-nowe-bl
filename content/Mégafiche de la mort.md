@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Mégafiche de la mort en économie
 ***

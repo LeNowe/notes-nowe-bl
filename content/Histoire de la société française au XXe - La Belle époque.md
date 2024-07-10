@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # <span style="color:#B80000">I</span><span style="color:#B84100">.</span> <span style="color:#B88200">U</span><span style="color:#ADB800">N</span><span style="color:#6CB800">E</span> <span style="color:#2BB800">B</span><span style="color:#00B816">E</span><span style="color:#00B856">L</span><span style="color:#00B897">L</span><span style="color:#0097B8">E</span> <span style="color:#0056B8">É</span><span style="color:#0016B8">P</span><span style="color:#2B00B8">O</span><span style="color:#6C00B8">Q</span><span style="color:#AD00B8">U</span><span style="color:#B80082">E</span> <span style="color:#B80041">?</span>
 **Source** : [[Histoire de la société française au XXe]] 

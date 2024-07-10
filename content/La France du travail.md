@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La France du travail
 <b><center>1945-1995</center></b>

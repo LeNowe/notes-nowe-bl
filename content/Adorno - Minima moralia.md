@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Adorno, *Minima moralia* (extraits)
 ***

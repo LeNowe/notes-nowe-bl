@@ -1,3 +1,6 @@
+---
+{}
+---
 
 ***
 # Plans de leçon d’économie

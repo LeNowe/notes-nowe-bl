@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # <span style="color:#B80000">L</span><span style="color:#B83A00">E</span><span style="color:#B87400">S</span> <span style="color:#B8AE00">O</span><span style="color:#87B800">U</span><span style="color:#4DB800">V</span><span style="color:#13B800">R</span><span style="color:#00B827">I</span><span style="color:#00B861">E</span><span style="color:#00B89B">R</span><span style="color:#009BB8">S</span> <span style="color:#0061B8">E</span><span style="color:#0027B8">N</span> <span style="color:#1300B8">F</span><span style="color:#4D00B8">R</span><span style="color:#8700B8">A</span><span style="color:#B800AE">N</span><span style="color:#B80074">C</span><span style="color:#B8003A">E</span>
 **Source** : G.NOIRIEL, *Les ouvriers dans la société française*

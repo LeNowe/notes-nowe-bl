@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Cours d’actualité du mardi
 ***

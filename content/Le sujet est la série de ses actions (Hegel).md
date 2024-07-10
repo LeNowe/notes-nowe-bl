@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # « Ce qu’est le sujet, c’est la série de ses actions »
 ***

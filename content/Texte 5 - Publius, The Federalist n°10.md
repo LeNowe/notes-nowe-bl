@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 5 - Publius ( James Madison ), *The Federalist* n°10, 22 November 1787
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ****
 # Cours de commentaire cartographique sur la France
 ***

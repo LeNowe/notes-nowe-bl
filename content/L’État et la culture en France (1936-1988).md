@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’État et la culture en France (1936-1988)
 ***

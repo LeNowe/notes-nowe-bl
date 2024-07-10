@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Richesse et pauvreté dans les pays développés à économie de marché
 **Source** : [[Richesse et pauvreté dans les pays développés à économie de marché.pdf]] 

@@ -1,3 +1,6 @@
+---
+{}
+---
 
 #### Baudelaire et l’humour : le « comique absolu » dans *Les Petits poèmes en prose* ( « Assommons les pauvres » et « Le Mauvais vitrier » )
 

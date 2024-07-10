@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # CARTE DE SAINT-TROPEZ
 ***

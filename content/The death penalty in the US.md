@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # The death penalty in the US
 ***

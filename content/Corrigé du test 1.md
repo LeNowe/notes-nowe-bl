@@ -1,3 +1,6 @@
+---
+{}
+---
 nb of great electors in a state = nb of senators in the fed senate ( 2 ) + nb of Representatives ( proportional to the state’s pop° ). To win the presidential elections you need to have majorities in many states. This system over-represents small states. 
 
 1 : DDD → D

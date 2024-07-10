@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La droite et la gronche en France de 1870 à 1995
 **Diaporama** : [[La droite et la gauche 1870-1995.pdf]]

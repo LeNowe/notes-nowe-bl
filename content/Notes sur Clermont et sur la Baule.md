@@ -1,3 +1,6 @@
+---
+{}
+---
 Massif central , Auvergne Rhône-Alpes 
 Michelin 
 

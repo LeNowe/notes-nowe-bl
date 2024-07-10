@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Charles H. Pearson, *National Life and Character*, 1893
 ***

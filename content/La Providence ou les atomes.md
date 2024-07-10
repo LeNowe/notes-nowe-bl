@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # « La Providence ou les atomes ? »
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 https://fr.wikipedia.org/wiki/Courbe_d%27indiff%C3%A9rence : point sur les courbes d’indifférences 
 ***
 # Chapitre I : Qui dépense, pour acheter quoi ?

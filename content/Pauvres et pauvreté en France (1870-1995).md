@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Pauvres et pauvreté en France (1870-1995)
 ***

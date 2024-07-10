@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La France, une puissance mondiale ?
 ***

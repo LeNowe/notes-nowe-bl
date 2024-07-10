@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Aristote, *Métaphysique*, livre *gamma*
 ***

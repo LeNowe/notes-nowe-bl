@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Spinoza, Le Bien ou l’utile, *Ethique*
 ***

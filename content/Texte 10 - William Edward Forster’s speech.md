@@ -1,3 +1,6 @@
+---
+{}
+---
 # Texte 10 - William Edward Forster, speech in the House of Commons, 17 February 1870
 
 ## Introduction 

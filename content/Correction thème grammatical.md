@@ -1,3 +1,6 @@
+---
+{}
+---
 # Correction thème grammatical n° 1 
 
 1/ Once wages have been raised employees will be more productive. 

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Conseils pour l’oral de philosophie 
 ***

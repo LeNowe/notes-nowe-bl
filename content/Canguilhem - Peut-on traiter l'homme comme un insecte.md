@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # CANGUILHEM - PEUT-ON « TRAITER L’HOMME COMME UN INSECTE » ?
 **Source** : « Qu’est-ce que la psychologie ? »

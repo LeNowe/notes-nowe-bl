@@ -1,3 +1,6 @@
+---
+{}
+---
 ## <u>Pauvreté et alimentation</u> 
 
 **⇒ Le facteur déterminant des liens entre pauvreté et santé dégradée est l’alimentation.**

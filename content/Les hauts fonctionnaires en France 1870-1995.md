@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les hauts fonctionnaires en France (1870-1995)
 ***

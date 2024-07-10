@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’Ecclésiaste, « Vanité de la sagesse »
 ***

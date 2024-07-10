@@ -1,3 +1,6 @@
+---
+{}
+---
 [[⌛HISTOIRE]]
 ***
 # Cours d’histoire 

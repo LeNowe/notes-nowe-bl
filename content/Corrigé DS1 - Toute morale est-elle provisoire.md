@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé DS1 - « Toute morale est-elle provisoire ? »
 ***

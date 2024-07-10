@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La France dans la Seconde Guerre Mondiale 
 <center>Axes de réflexion</center>

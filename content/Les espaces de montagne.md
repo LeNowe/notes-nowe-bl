@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Commentaire de carte : les  montagnes
 ***

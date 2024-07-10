@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Synthèse des rapports de jury
 ***

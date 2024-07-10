@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Purdue Pharma Settlement and the opioids epidemic
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Conservative manifesto, 1979
 ***

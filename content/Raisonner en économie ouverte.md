@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Raisonner en économie ouverte
 ***

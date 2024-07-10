@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La France, la Nation, la Guerre - plan d’ensemble
 ***

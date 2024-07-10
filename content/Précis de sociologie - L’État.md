@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Précis de sociologie : l’État
 <u><b>I. Genèse et formation de l’État</b></u> 

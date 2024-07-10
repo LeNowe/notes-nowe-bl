@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Servir l’État en France depuis 1871
 

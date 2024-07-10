@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # LES VILLES EN FRANCE
 ***

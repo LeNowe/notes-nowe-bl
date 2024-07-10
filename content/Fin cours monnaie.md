@@ -1,3 +1,6 @@
+---
+{}
+---
 Autre <u>exemple</u> de règle instrumentale : 
 
 **⇒ Règle de Mc CALLUM ( 1988 )** : l’instrument est un agrégat monétaire pour viser un PIB voulu. Mais discutable car dépend du caractère exogène / endogène de la monnaie. 

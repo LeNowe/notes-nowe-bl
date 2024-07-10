@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Bibliographie Philo CB1 : Le sujet et son action
 ***

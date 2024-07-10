@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Chapitre II : Les dépenses des ménages,  consommer ou épargner les revenus ? 
 ***

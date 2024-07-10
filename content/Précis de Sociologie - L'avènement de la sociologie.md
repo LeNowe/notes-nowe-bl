@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Précis de sociologie - Chapitre 1 - L’avènement de la sociologie 
 ***

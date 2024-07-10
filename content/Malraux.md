@@ -1,3 +1,6 @@
+---
+{}
+---
 *L’Espoir* guerre d’Espagne républicains 
 *La Condition humaine* sur la révolution chinoise du côté des militants communistes 
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # CARTE D’AIGUES-MORTES
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé CB1 Philo : De quoi peut-on répondre ?
 ***

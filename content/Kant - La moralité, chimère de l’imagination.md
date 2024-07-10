@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Kant, « La moralité, chimère de l’imagination », *Fondements de la métaphysique des mœurs*
 ***

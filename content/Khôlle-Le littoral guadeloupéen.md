@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Le littoral guadeloupéen entre valorisation et protection
 ***

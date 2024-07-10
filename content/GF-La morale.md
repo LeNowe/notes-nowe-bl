@@ -1,3 +1,6 @@
+---
+{}
+---
 
 ***
 # GF Corpus - La morale 

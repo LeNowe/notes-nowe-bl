@@ -1,3 +1,6 @@
+---
+{}
+---
 
 
 La volonté de faire **accéder les masses à la vie politique** était au cœur du projet républicain. Après leurs premières victoires électorales ( **1870** et **1880** ) les républicains ont proposé l’épure d’une **société politique idéale** où l’ensemble des citoyens, libres et égaux, scolarisés et émancipés, engagés mais raisonnables, devenaient les **acteurs** de la vie politique. Le bulletin de vote était censé rendre illégitime et inutile le recours à la violence.

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 2 - Washington’s *Farewell Address*, 1796
 ***

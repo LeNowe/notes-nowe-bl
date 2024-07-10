@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Kant - *Critique de la faculté de juger*
 ***

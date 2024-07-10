@@ -1,3 +1,6 @@
+---
+{}
+---
 
 # Vassevière-Toursel - Chapitre 6 : L’homme et l’oeuvre 
 

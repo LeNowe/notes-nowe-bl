@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Écologie et écologistes en France
 ***

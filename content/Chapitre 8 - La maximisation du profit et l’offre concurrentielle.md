@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Chapitre 8 : La maximisation du profit et l’offre concurrentielle
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Agamben, *Le Pouvoir souverain et la vie nue*
 ***

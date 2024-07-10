@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Remarques sur les fondements de la métaphysique des mœurs
 ***

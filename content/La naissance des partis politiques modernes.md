@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Naissance des partis politiques modernes
 ***

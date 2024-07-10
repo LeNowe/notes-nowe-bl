@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Chapitre 9 : L’analyse des marchés concurrentiels
 ***

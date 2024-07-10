@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # David Hume - *Traité de la nature humaine* - La Morale 
 ***

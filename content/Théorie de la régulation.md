@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Théorie de la régulation
 ***

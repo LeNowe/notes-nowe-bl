@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Strikes in the US
 ***

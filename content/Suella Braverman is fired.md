@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # November : Suella Braverman is fired
 ***

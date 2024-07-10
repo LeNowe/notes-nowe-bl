@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # François Mitterrand  ( 1916-1996 ) 👑🌹
 ![[Pasted image 20231025212803.png|center|500]]

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Plan détaillé sur la carte de Biscarosse : le littoral landais et ses paysages 
 ***

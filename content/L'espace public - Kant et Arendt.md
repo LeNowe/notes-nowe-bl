@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’ESPACE PUBLIC - KANT & ARENDT
 <center>à la suite du corrigé « Qu’est-ce qu’un citoyen ? »</center>

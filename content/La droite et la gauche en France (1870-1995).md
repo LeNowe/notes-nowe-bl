@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La droite et la gauche en France (1870-1995)
 ***

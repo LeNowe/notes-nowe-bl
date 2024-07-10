@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Forêts du monde, forêts de France : des ressources face aux changements globaux
 **Source** : Conférence d’Alain KARSENTY, J-G CORNET

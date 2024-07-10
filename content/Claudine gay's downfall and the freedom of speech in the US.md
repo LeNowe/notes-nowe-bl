@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Claudine gay’s downfall and the freedom of speech
 ***

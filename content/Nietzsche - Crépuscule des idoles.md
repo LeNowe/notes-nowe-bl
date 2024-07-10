@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Nietzsche - « La morale comme contre-nature » - *Le Crépuscule des idoles*
 ***

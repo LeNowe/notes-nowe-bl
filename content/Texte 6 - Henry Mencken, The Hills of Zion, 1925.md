@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Henry Mencken, « The Hills of Zion », 1925
 ***

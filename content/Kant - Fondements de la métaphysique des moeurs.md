@@ -1,3 +1,6 @@
+---
+{}
+---
 Interrogations : 
 	- Pourquoi Kant, dans les formules de l’imp. catégorique use de l’expression « comme si »
 	- Qu’est ce que la « personne », « la métaphysique » pour Kant ?

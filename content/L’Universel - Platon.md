@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’Universel - Platon
 ***

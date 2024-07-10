@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Anscombe : l’esprit pratique
 **Sources** : 

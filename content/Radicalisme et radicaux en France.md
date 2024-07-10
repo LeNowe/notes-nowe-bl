@@ -1,3 +1,6 @@
+---
+{}
+---
 
 ***
 # Parti radical et radicalisme en France de la fin du XIXe siècle aux années 1980

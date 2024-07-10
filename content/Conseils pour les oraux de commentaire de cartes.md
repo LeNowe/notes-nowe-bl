@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Conseils pour les oraux de commentaire de cartes
 ***

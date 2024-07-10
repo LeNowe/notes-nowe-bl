@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # CB 2 Histoire - La France de la Belle Epoque 
 ***

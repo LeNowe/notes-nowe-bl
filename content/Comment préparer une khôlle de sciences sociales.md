@@ -1,3 +1,6 @@
+---
+{}
+---
 
 # Comment préparer une khôlle de sciences sociales 
 

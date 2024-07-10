@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # George Wallace, Inaugural Address, 1963
 ***

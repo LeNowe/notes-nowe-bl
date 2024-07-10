@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # LE TRAVAIL EN FRANCE 
 ***

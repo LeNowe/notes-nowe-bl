@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Aristote, Vertu et Modération, *Ethique à Nicomaque*
 ***

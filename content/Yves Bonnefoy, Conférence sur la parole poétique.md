@@ -1,3 +1,6 @@
+---
+{}
+---
 # Yves Bonnefoy, Conférence sur la parole poétique 
 
 > Notre poésie est une terre verbale et j’en suis l’héritier.

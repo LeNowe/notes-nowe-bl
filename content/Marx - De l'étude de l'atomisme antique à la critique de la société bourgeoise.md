@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # MARX 
 <center><b>DE L’ATOMISME ANTIQUE À LA CRITIQUE DE LA SOCIÉTÉ BOURGEOISE</b></center>

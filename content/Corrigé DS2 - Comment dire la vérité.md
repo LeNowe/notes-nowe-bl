@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # DS2 - Comment dire la vérité ?
 ***

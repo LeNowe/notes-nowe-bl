@@ -1,3 +1,6 @@
+---
+{}
+---
  ***
 # Hegel - *Principes de la philosophie du droit*
 tristan.paulus0@gmail.com 

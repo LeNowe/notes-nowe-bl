@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’alimentation dans la mondialisation 
 ***

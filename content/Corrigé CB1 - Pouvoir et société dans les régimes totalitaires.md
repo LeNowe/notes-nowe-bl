@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Pouvoir et société dans les régimes totalitaires
 ***

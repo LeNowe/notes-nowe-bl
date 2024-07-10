@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’État en France 1870-1995
 **Source** : *L’État en France* de Rosanvallon ( cf. [[L'État en France, Pierre Rosanvallon.pdf|fiche]] ) et *État, société et économie* de Gueslin

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Aristote, *Ethique à Nicomaque*
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Emile Durkheim, *Les règles de la méthode sociologique*
 ***

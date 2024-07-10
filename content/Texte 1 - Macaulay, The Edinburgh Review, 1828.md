@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Macaulay, *The Edinburgh Review*, 1828
 ***

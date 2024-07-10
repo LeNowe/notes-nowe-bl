@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La virilité en France de 1870 à 1995
 ***

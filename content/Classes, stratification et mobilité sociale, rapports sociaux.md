@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Classes, stratification et mobilité sociale
 ***

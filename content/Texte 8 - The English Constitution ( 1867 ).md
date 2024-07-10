@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Walter Bagehot, *The English Constitution* ( 1867 )
 ***

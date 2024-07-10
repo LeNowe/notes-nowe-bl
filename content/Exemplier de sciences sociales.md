@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Exemplier de sciences sociales
 ***

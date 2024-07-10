@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # René Char - L’obscurité en poésie
 ***

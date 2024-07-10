@@ -1,3 +1,6 @@
+---
+{}
+---
 h***
 # Corrigé DS1 : Etre républicain de 1870 au début des années 1900
 

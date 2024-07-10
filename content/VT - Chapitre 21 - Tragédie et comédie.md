@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # VT 21 : Tragédie et comédie
 ***

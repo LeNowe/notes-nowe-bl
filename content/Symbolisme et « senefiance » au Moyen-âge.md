@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Symbolisme et « senefiance » au Moyen-âge
 ***

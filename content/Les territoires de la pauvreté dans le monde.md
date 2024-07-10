@@ -1,3 +1,6 @@
+---
+{}
+---
 
 # Géographie - Les territoires de la pauvreté dans le monde 
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Monts du Cantal, PNR des Volcans d’Auvergne 
 ***

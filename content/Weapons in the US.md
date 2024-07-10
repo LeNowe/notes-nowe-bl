@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Weapons in the US
 ***

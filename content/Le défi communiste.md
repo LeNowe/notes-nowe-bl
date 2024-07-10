@@ -1,3 +1,6 @@
+---
+{}
+---
 
 # Le défi communiste
 

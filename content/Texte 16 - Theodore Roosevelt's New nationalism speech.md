@@ -1,3 +1,6 @@
+---
+{}
+---
 The New nationalism speech
 
 ## Context 

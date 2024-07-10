@@ -1,3 +1,6 @@
+---
+{}
+---
 # Texte 6 - Speech delivered by Sir Robert Peel in the House of Commons on February 16th, 1846 
 
 ## Introduction 

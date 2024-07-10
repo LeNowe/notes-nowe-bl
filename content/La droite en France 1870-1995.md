@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # La droite en France
 ***

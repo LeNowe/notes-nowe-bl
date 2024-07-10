@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # <span style="color:#B80000">L</span><span style="color:#B82700">E</span><span style="color:#B84F00">S</span> <span style="color:#B87600">C</span><span style="color:#B89D00">L</span><span style="color:#AAB800">A</span><span style="color:#83B800">S</span><span style="color:#5CB800">S</span><span style="color:#34B800">E</span><span style="color:#0DB800">S</span> <span style="color:#00B81A">M</span><span style="color:#00B842">O</span><span style="color:#00B869">Y</span><span style="color:#00B890">E</span><span style="color:#00B8B8">N</span><span style="color:#0090B8">N</span><span style="color:#0069B8">E</span><span style="color:#0042B8">S</span> <span style="color:#001AB8">E</span><span style="color:#0D00B8">N</span> <span style="color:#3400B8">F</span><span style="color:#5C00B8">R</span><span style="color:#8300B8">A</span><span style="color:#AA00B8">N</span><span style="color:#B8009D">C</span><span style="color:#B80076">E</span>
 ***

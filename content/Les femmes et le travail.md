@@ -1,3 +1,6 @@
+---
+{}
+---
 **Les femmes et le travail
 
 **Source** : S. SCHWEITZERS, *Les femmes ont toujours travaillé*

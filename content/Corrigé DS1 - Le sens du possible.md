@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Corrigé DS1 - Le sens du possible
 ***

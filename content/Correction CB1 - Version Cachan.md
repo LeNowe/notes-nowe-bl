@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Correction CB1 : Version anglaise Saclay
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Pertinence et limites du concept de « culture populaire »
 ***

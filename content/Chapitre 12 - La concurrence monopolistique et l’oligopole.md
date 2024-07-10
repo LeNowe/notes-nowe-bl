@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Chapitre 12 : La concurrence monopolistique et l’oligopole
 ***

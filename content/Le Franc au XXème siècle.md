@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Le Franc au XXème siècle : le « siècle des dévaluations »
 

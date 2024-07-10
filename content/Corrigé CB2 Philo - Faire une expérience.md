@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # CB2 : Faire une expérience
 ***

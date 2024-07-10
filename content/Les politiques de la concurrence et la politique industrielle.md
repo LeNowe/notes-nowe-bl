@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les politiques de la concurrence et la politique industrielle
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Cours sur la *Phénoménologie de l’Esprit*
 ***

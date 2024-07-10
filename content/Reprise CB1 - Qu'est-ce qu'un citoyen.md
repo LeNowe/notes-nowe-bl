@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Qu’est-ce qu’un citoyen ?
 ***

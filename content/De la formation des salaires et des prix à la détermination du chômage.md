@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # De la formation des salaires et des prix à la détermination du chômage
 ***

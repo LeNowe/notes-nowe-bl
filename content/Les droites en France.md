@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # LES DROITES EN FRANCE
 ***

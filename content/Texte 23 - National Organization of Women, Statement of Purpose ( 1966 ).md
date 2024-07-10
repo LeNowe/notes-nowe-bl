@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 ## Texte 23 - National Organisation of Women, Statement of Purpose ( 1966 )
 ***

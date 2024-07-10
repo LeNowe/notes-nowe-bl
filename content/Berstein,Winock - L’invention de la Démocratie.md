@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Berstein et Winock, *L’Invention de la Démocratie*
 ***

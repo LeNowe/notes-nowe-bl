@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Le Front populaire
 Source : *Histoires des gauches* 

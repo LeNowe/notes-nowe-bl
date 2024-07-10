@@ -1,3 +1,6 @@
+---
+{}
+---
 > [!done] Correction croquis de Besançon
 > Titre : Les forêts périurbaines : Besançon et la forêt de Chailluz  
 > ⚠ Pour les croquis, le jury n’en demande pas obligatoirement. Il faut qu’ils soient pertinents ! 

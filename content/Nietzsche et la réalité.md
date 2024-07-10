@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # NIETZSCHE ET LA RÉALITÉ
 **Source** : https://www.cairn.info/revue-philosophique-2006-4-page-403.htm

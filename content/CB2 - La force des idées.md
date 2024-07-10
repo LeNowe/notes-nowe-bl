@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # CB2 - La force des idées 
 ***

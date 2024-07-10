@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # <span style="color:#B80000">L</span><span style="color:#B83200">E</span> <span style="color:#B86400">S</span><span style="color:#B89600">Y</span><span style="color:#A7B800">N</span><span style="color:#75B800">D</span><span style="color:#43B800">I</span><span style="color:#11B800">C</span><span style="color:#00B821">A</span><span style="color:#00B853">L</span><span style="color:#00B886">I</span><span style="color:#00B8B8">S</span><span style="color:#0086B8">M</span><span style="color:#0053B8">E</span> <span style="color:#0021B8">F</span><span style="color:#1100B8">R</span><span style="color:#4300B8">A</span><span style="color:#7500B8">N</span><span style="color:#A700B8">Ç</span><span style="color:#B80096">A</span><span style="color:#B80064">I</span><span style="color:#B80032">S</span> 
 **Source** : *Histoire des gauches*

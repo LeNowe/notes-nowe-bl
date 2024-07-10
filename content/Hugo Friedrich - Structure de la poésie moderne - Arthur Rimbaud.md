@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Hugo Friedrich - *Structure de la poésie moderne* : « Arthur Rimbaud »
 ***

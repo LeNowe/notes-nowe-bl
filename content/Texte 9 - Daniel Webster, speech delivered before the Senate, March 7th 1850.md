@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 9 - Daniel Webster, speech delivered before the Senate, March 7th 1850
 ***

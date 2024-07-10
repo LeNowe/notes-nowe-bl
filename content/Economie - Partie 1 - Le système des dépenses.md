@@ -1,3 +1,6 @@
+---
+{}
+---
  ***
 # Partie 1 : Le système de dépenses - Introduction
 ***

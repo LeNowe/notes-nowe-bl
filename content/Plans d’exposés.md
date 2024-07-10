@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Plans d’exposés
 <center>Histoire de France 1870-1995</center>

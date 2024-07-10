@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Hobbes - Le Léviathan
 **Source** : Chapitre XIII et XVII du *Léviathan*

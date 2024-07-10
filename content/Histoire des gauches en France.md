@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Histoire des gauches en France 1870-1995
 ***

@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Hollywood’s strike : poverty in Tinseltown ?
 ***

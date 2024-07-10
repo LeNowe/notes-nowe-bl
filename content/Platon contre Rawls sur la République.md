@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Platon vs Rawls : autour de *La République*
 ***

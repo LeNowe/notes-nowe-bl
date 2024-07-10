@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Libéralisme et démocratie de 1919 aux années 1990
 ***

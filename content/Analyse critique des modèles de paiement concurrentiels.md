@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Les modèles de paiements concurrentiels : éléments d’analyse critique
 **Source** : [[Les systèmes de paiement concurrentiels.pdf]]

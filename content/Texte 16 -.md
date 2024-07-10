@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 16 - Harold Wilson, speech delivered at the Labour Party Conference in Scarborough on Octobre 1st, 1963
 ***

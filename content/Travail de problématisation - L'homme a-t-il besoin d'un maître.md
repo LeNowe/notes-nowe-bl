@@ -1,3 +1,6 @@
+---
+{}
+---
 
 # Travail de problématisation - L'homme a-t-il besoin d'un maître ? 
 

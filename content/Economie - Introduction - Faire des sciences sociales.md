@@ -1,3 +1,6 @@
+---
+{}
+---
 - [ ] Qui a peur des sciences sociales ? ⇒ *Actes de la recherche en sciences sociales* 
 ***
 # Introduction - Faire des sciences sociales ?

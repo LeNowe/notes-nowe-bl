@@ -1,3 +1,6 @@
+---
+{}
+---
 
 
 Les Républicains n’ayant pas bouleversé l’Etat administratif s’attaquent avec audace aux modes de légitimation politique. Des pans entiers de l’Etat passèrent entre les mains d’élus. 

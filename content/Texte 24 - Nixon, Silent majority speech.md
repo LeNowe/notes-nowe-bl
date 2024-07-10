@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Texte 24 - Nixon, *Silent majority speech* 
 ***

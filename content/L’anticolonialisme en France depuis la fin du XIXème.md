@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # L’anticolonialisme en France depuis la fin du XIXème
 ***

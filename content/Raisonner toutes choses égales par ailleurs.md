@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Raisonner toutes choses égales par ailleurs
 **Source** : [[Raisonner toutes choses égales par ailleurs.pdf]] cf. aussi [[Epistémologie des sciences économiques.pdf]] 

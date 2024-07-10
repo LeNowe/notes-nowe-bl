@@ -1,3 +1,6 @@
+---
+{}
+---
 f***
 # Exemplier de littérature
 ***

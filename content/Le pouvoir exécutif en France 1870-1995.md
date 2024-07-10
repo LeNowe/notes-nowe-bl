@@ -1,3 +1,6 @@
+---
+{}
+---
 ***
 # Le pouvoir exécutif en France 1870-1995
 **Sources** : [[Le pouvoir exécutif en France.docx.pdf]] ( = fiche Vincent ) et le poly [[Le pouvoir exécutif en France.pdf]] 
