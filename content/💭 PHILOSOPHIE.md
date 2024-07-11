@@ -3,8 +3,6 @@
 Si besoin : sophietrinquier52@gmail.com 
 ## Cours 
 
-{{title}} 
-
 ### Hypo 
 
 - [[L'Universel - Introduction]]

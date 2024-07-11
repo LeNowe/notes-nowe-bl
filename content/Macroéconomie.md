@@ -13,8 +13,7 @@
 
 > [!note] Les trois approches du PIB
 > 
-> $$\textbf{Par la production}:\text{PIB}=\Sigma{\text{VAB}}+\text{IP – SUBV}$$
-> $$\textbf{Par la demande}:\text{PIB} = \text{CF + FBCF + (X–M)}$$ $$\textbf{Par le revenu}:\text{PIB =}\Sigma{}\text{ RP = RS + EBE + RM + IP –SUBV}$$
+> $$\displaylines{\textbf{Par la production}:\text{PIB}=\Sigma{\text{VAB}}+\text{IP – SUBV} \newline \textbf{Par la demande}:\text{PIB} = \text{CF + FBCF + (X–M)} \newline \textbf{Par le revenu}:\text{PIB =}\Sigma{}\text{ RP = RS + EBE + RM + IP –SUBV}}$$
 
 - Le **PIB nominal** est égal à la somme des quantités des biens finaux, multipliée par leur prix. Cela implique que les variations du PIB nominal reflètent à la fois des modifications de quantités et de prix. Le **PIB réel** est une mesure du produit. Les variations du PIB réel traduisent seulement des variations de quantités.
 - La **population active** est la somme du nombre d'employés et de chômeurs. Le **taux de chômage** est le rapport entre le nombre de chômeurs et la population active. Sont classées comme chômeurs les personnes qui n'ont pas d'emploi et en ont cherché un au cours des quatre dernières semaines.
@@ -56,14 +55,14 @@ Les principales relations économiques à retenir pour ces variables sont les su
 
 > [!seealso] Fonction de consommation
 > $$\boxed{(C):Y_D\mapsto C_0+cY_D} \:\text{ avec}\:Y_D≡Y-T \text{ et}\: c<1$$
-> ![[CamScanner 01-21-2024 18.04 1.jpg|center|400]]
+> ![[CamScanner 01-21-2024 18.04 1.jpg|center|450]]
 
 - Le revenu Y conditionne la demande, mais celle-ci le détermine aussi. **À l'équilibre, ce qui est vendu est égal au revenu des agents, qui conditionne leurs dépenses**. La part de la demande de biens qui ne dépend pas du revenu est appelée **dépense autonome**. Si cette dernière augmente, le PIB augmente d’un montant supérieur.  Le **× est égal à 1/(1-*c*)**, où *c*, représente la propension marginale à consommer (cf. démo). 
 $$\boxed{k=\frac{1}{1-c}}$$
 
 > [!seealso] L'équilibre sur le marché des biens
 > $$\boxed{\text {A l'équilibre} : Y=Z} \text{ avec} \:Z=C_0+c(Y-T)+\overline{I}+G$$
-> ![[CamScanner 01-21-2024 18.04_2.jpg|center|400]]
+> ![[CamScanner 01-21-2024 18.04_2.jpg|center|450]]
 
 - Une autre façon d'énoncer la condition d'équilibre du marché des biens est que **l'investissement doit être égal à l'épargne moins la somme de l'épargne privée et publique**. Pour cette raison, la condition d'équilibre est appelée la **relation IS** (I pour investissement, S pour épargne).
 $$\boxed{I=S+(T-G)}$$
