@@ -1,7 +1,6 @@
 ---
 {}
 ---
-De : [[content/index|index]]
 # 🏖️ NOTES
 
 - [[Synthèse des rapports de jury]]

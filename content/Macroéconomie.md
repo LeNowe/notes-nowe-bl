@@ -11,7 +11,11 @@
 	-  **Du point de vue de la demande** : biens et des services finaux produits
 	- **Du point de vue du revenu** : Σ des revenus primaires
 
-$$\boxed{\displaylines{\textbf{Les trois approches du PIB} :\newline \textbf{Par la production}:\text{PIB}=\Sigma{\text{VAB}}+\text{IP – SUBV}\newline \textbf{Par la demande}:\text{PIB} = \text{CF + FBCF + (X–M)}\newline \textbf{Par le revenu}:\text{PIB =}\Sigma{}\text{ RP = RS + EBE + RM + IP –SUBV}}}$$
+> [!note] Les trois approches du PIB
+> 
+> $$\textbf{Par la production}:\text{PIB}=\Sigma{\text{VAB}}+\text{IP – SUBV}$$
+> $$\textbf{Par la demande}:\text{PIB} = \text{CF + FBCF + (X–M)}$$ $$\textbf{Par le revenu}:\text{PIB =}\Sigma{}\text{ RP = RS + EBE + RM + IP –SUBV}$$
+
 - Le **PIB nominal** est égal à la somme des quantités des biens finaux, multipliée par leur prix. Cela implique que les variations du PIB nominal reflètent à la fois des modifications de quantités et de prix. Le **PIB réel** est une mesure du produit. Les variations du PIB réel traduisent seulement des variations de quantités.
 - La **population active** est la somme du nombre d'employés et de chômeurs. Le **taux de chômage** est le rapport entre le nombre de chômeurs et la population active. Sont classées comme chômeurs les personnes qui n'ont pas d'emploi et en ont cherché un au cours des quatre dernières semaines.
 - Les économistes s'intéressent au chômage en raison du coût humain qu'il représente. Ils s'intéressent également au chômage parce qu'il envoie un signal sur l'efficacité avec laquelle l'économie utilise ses ressources. Un taux de chômage élevé indique qu'un pays n'utilise pas ses ressources de manière efficace. L'**inflation** est une hausse du niveau général des prix. Le taux d'inflation est le taux d'accroissement du niveau des prix. Les macroéconomistes utilisent deux mesures de ce niveau : le premier est le **déflateur du PIB**, qui donne le prix moyen des biens produits dans l'économie ; le second est l'**indice des prix à la consommation** (IPC), qui exprime le prix moyen des biens consommés dans l'économie.
@@ -239,14 +243,7 @@ $$\boxed{\text{Ratio  de levier}=\frac{1}{\text{Ratio de capital}}=\frac{\text{A
 
 - Le **modèle IS/LM peut être étendu** pour distinguer d'une part le taux d'intérêt nominal et le taux d'intérêt réel et d'autre part le taux d'intérêt déterminé par la banque centrale (**taux directeur**) et les taux d'intérêt auxquels font face les emprunteurs (**taux réel de marché**).
 - Un **choc sur le système financier** (↗ *x* qu’on considère exogène pour simplifier) conduit à une hausse du taux d'intérêt auxquelles ménages et les entreprises peuvent emprunter à un taux directeur donné (IS se déplace vers la gauche). Cela conduit à une baisse de l'activité. Ainsi, **une crise financière débouche sur une crise macroéconomique**. Mais la politique monétaire peut ramener le produit à son niveau de base en baissant *r* (parfois négatif). 
-$$\boxed{
-\left\{
-    \begin{array}{ll}
-        (IS) : Y=C(Y-T)+I(Y,i-\pi^e_t+x)+G=C(Y-T)+I(Y,r+x)+G\\
-        (LM) : i=i \Rightarrow r=\bar{r}
-    \end{array}
-\right.
-}$$
+$$\boxed{\left\{\begin{array}{ll}(IS) : Y=C(Y-T)+I(Y,i-\pi^e_t+x)+G=C(Y-T)+I(Y,r+x)+G\\(LM) : i=i \Rightarrow r=\bar{r}\end{array}\right.}$$
 ### 5. D’une baisse des prix de l’immobiliser à une crise financière, et d’une crise financière à une crise macroéconomique
 
 - La crise financière de 2008 a été déclenchée par une baisse des prix immobiliers aux États-Unis. Celle-ci a été amplifiée par le système financier.
@@ -300,13 +297,7 @@ $$\boxed{P=(1+m)W}$$
 > ![[CamScanner 01-28-2024 09.51_3.jpg|center]]
 
 - On associe au taux de chômage structurel, un **taux d’emploi naturel et un niveau de production d’équilibre** (ou naturel). 
-$$\boxed{\left\{
-    \begin{array}{ll}
-        N_n=L(1-u_n) \\
-        \underbrace{Y_n=N_n}_{Q=f_\:\text{simplifiée}}
-    \end{array}
-\right.
-\Rightarrow F(1-\frac{Y_n}{L},z)=\frac{1}{1+m}}$$
+$$\boxed{\left\{\begin{array}{ll}N_n=L(1-u_n) \\\underbrace{Y_n=N_n}_{Q=f_\:\text{simplifiée}}\end{array}\right.\Rightarrow F(1-\frac{Y_n}{L},z)=\frac{1}{1+m}}$$
 - En général, <b><i>P ≠ P<sup>e</sub></i></b> (le niveau des prix n'est pas égal au niveau qui avait été anticipé lors de la négociation salariale), et donc **le taux de chômage n'est pas à son niveau structurel à court terme**. Mais nous allons voir, dans les chapitres suivants, que, à moyen terme, il tend à revenir à son niveau structurel (car pas de raison que les anticipations soient fausses). 
 - Le **modèle WS-PS et celui d’offre et de demande de travail sont assez proches** (il suffit d’exprimer le niveau d’emploi en abscisse) mais en réalité **le second ne prend pas en compte les processus de négociation et l’existence d’une marge** sur les salaires (si pouvoir de marché). 
 
@@ -925,7 +916,7 @@ $$\boxed{\displaylines{\textbf{L'effet d'une d\'epr\'eciation sur NX (court term
  & \text{• Initialement : } (X,M) \text{ inchang\'es},↑Ɛ \Rightarrow \:↓(X-ƐM) \\
  & \text{• Finalement :} (↑X,↓M,↑ Ɛ)∧ \mathcal{P}_{ML} \Rightarrow \:↑ (X-ƐM)\\
  \end{align*}}}$$
- > ![[Pasted image 20240217151112.png|center|500]]
+ > ![[Pasted image 20240711080359.png|center]]
 
 ### 6. L’épargne, l’investissement et les déficits commerciaux 
 
@@ -964,7 +955,7 @@ $$\boxed{(IS) : Y=C\underset{(+)}{(Y-T)}+I\underset{(+,-)}{(Y,i)}+G+NX\underset{
 
 
 > [!seealso] La relation entre le taux d'intérêt et le taux de change impliqué par la relation de parité des taux d'intérêt
-> $$\boxed{\displaylines{\textbf{Relation entre le taux de change et le taux d'int\'er\^et}: \newline\text{D'après la parit\'e des taux d'int\'er\^ets} :i_t=i^*_t+\frac{E^e_{t+1}-E_t}{E_t}\newline \text{Et en consid\'erant}:i^*=\bar{i^*}\text{ et }E^e=\bar{E^e}\newline \text{On obtient : }E=\frac{\bar{E^e}}{1+i -\bar{i^*}}=f\underset{(-)}{(i)}\newline \text{Donc :}\left\{\begin{array}{ll} ↑i\Rightarrow  ↓E  \text{ (appr\'eciation)} \\ ↓i\Rightarrow  ↑E  \text{ (d\'epr\'eciation)} \end{array} \right.}}$$
+> $$\boxed{\displaylines{\textbf{Relation entre le taux de change et le taux d'int\'er\^et}: \newline\text{D'après la parit\'e des taux d'int\'er\^ets} :i_t=i^*_t+\frac{E^e_{t+1}-E_t}{E_t}\newline \text{Et en consid\'erant}:i^*=\bar{i^*}\text{ et }E^e=\bar{E^e}\newline \text{On obtient : }E=\frac{\bar{E^e}}{1+i -\bar{i^*}}=f\underset{(-)}{(i)}\newline \text{Donc :}\left\{\begin{array}{ll} ↑i\Rightarrow  ↓E \text{ (appr\'eciation)} \\ ↓i\Rightarrow  ↑E  \text{(d\'epr\'eciation)} \end{array} \right.}}$$
 > ![[CamScanner 02-20-2024 16.27.jpg|center|500]]
 
 - **Étant donné le taux de change anticipé et le taux d'intérêt étranger**, une augmentation du taux d'intérêt intérieur induit une diminution du taux de change (une **appréciation**), et une diminution du taux d'intérêt intérieur entraîne une augmentation du taux de change (une **dépréciation**). 

@@ -1,8 +1,6 @@
 ---
 {}
 ---
-De : [[content/index|index]]
-
 # ⌛HISTOIRE
  
 Si besoin : danhenri78@gmail.com

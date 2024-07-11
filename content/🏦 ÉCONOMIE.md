@@ -1,9 +1,8 @@
 ---
 {}
 ---
-De : [[content/index|index]]
-
 # 🏦 ÉCONOMIE
+
 > Ta gueule je trace une courbe.
 > – Philippe Riutort
 ## Cours 

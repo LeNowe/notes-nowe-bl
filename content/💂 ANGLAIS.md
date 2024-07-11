@@ -1,8 +1,6 @@
 ---
 {}
 ---
-De : [[content/index|index]]
-
 # 💂 ANGLAIS
 
 >  J’en peux plus de l’école numérique. Ecole numérique, école soviétique. – Christophe Repplinger 

@@ -1,8 +1,6 @@
 ---
 {}
 ---
-De : [[content/index|index]]
-
 # 📖 LITTÉRATURE
 
 > C’est la fin de l’abondance. Mince il n’y a plus de nounours, qu’est-ce qu’on va faire au prochain attentat ?  – François Gadeyne 

@@ -1,8 +1,6 @@
 ---
 {}
 ---
-De : [[content/index|index]]]
-
 # 🌆 SOCIOLOGIE
 
 ## Cours 
