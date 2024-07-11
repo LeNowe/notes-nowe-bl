@@ -672,14 +672,16 @@ Herbert SIMMON par l’analyse comportementale des salariés et la spécificité
 
 Pour prendre des décisions, on s’en remet à des **processus de décisions routinisés** ( ⚠ = au moins aussi rationnel que le calcul en milieu incertain ). 
 
-| ![[Pasted image 20231116161347.png]]    |  ![[Pasted image 20231116161654.png]]   |
-| --- | --- |
+![[Pasted image 20231116161347.png|center|350]]
+![[Pasted image 20231116161654.png|center|350]]
+
 
 #### 4. La régulation des choix individuels : entre contraintes et incitations 
 
 - Quelle est la part qui revient aux **contraintes** sur l’action ? 
 - Quelle est la part qui revient aux **incitations** sur les préférences ? 
-Tayl
+
+
 **⇒ AOKI, « Horizontal vs. Vertical Information Structure of the Firm », 1986**
 
 |     |  A   |  J   |

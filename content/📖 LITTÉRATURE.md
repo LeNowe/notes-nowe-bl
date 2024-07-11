@@ -6,31 +6,33 @@
 > C’est la fin de l’abondance. Mince il n’y a plus de nounours, qu’est-ce qu’on va faire au prochain attentat ?  – François Gadeyne 
 ## Cours
 
+Pour les cours de Decroix, les exemples essentiels sont fichés dans l'exemplier mais pour en trouver d'autres/lire l'analyse de texte en entier il peut-être intéressant de regarder. 
+
 - [[Thème 1 - Récit et société]]
 - [[Cours de français]]
-- [[Rire, burlesque, ironie et dérision]]
-- [[Littérature et politique]] 
+- [[Rire, burlesque, ironie et dérision]] ❤️
+- [[Littérature et politique]] ❤️
 - [[Corrigé DS1 - Le comique]] 
-- [[Littérature et savoirs]] 
+- [[Littérature et savoirs]] ❤️
 - [[Corrigé DS2 - Littérature et politique]] 
-- [[La lecture]] 
+- [[La lecture]] ❤️
 - [[Corrigé DS3 - Littérature et savoirs]] 
-- [[Écriture et désir]] 
+- [[Écriture et désir]] ❤️
 - [[Corrigé CB2 Gracq sur le son]] 
 - [[Dernières analyses de texte avant l'oral]] 
 
 ## Fiches 
 
-- [[Mimésis|Auerbach - Mimesis]]  
+- [[Mimésis|Auerbach - Mimesis]]  ❤️
 - [[Littérature et engagement]] 
-- [[Exemplier de littérature]] 
-- [[Exemplier (version fiche)]] 
+- [[Exemplier de littérature]]  ❤️
+- [[Exemplier (version fiche)]] ❤️ (c'est avec ça que j'apprenais les références et citations)
 - [[GF Comique]] 
-- [[Petites fiches biographiques]]  
+- [[Petites fiches biographiques]] 
 - [[Symbolisme et « senefiance » au Moyen-âge]] 
 - [[Yves Bonnefoy, Conférence sur la parole poétique]] 
 - [[Erich Auerbach - Mimésis - L’hôtel de la Mole]] 
-- [[Hugo Friedrich - Structure de la poésie moderne - Arthur Rimbaud]]
+- [[Hugo Friedrich - Structure de la poésie moderne - Arthur Rimbaud]] 
 - [[Chrétien de Troyes - les gouttes de sang sur la neige]]
 - [[René Char - L'obscurité en poésie]]
 - [[VT - Chapitre 5 - L’écriture et ce qui s’y joue]] 

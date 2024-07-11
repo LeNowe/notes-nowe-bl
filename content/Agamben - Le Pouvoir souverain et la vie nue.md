@@ -4,7 +4,7 @@
 ***
 # Agamben, *Le Pouvoir souverain et la vie nue*
 ***
-Pour un rapide rappel et travailler l’anglais : https://www.youtube.com/watch?v=DAAweBo_AWU 
+Pour un rapide rappel  : https://www.youtube.com/watch?v=DAAweBo_AWU 
 Parcours sur Agamben et la biopolitique : https://www.idixa.net/Pixa/pagixa-1005180004.html
 http://fredc.over-blog.com/2017/06/giorgio-agamben-ne-en-1942-philosophe.html
 

@@ -1,10 +1,7 @@
 ---
 {}
 ---
-- [ ] Revoir méthodo. Intro dissertat°
-- [ ] Fiche vocabulaire grec
-- [ ] Regarder *Zéro de conduite* 
-***
+
 # Philosophie : L’Universel 
 
 ## Introduction 

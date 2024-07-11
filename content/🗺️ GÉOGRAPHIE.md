@@ -23,16 +23,16 @@ Si besoin : geographie-lechat.fr et Caroline.Lechat@ac-paris.fr
 ## Cours de de cartographie
 
 - [[Cours de commentaire de carte topographique sur la France]] 
-- [[Cours de cartographie - la forêt en France]] 
-- [[Les espaces de montagne]] 
-- [[L’outre mer]] 
-- [[Les espaces ruraux en France]] 
-- [[Les espaces urbains en France]] 
-- [[Les vignobles]] 
+- [[Cours de cartographie - la forêt en France]] ❤️
+- [[Les espaces de montagne]] ❤️
+- [[L’outre mer]] ❤️
+- [[Les espaces ruraux en France]] ❤️
+- [[Les espaces urbains en France]] ❤️
+- [[Les vignobles]] ❤️
 - [[Khôlle-Le littoral guadeloupéen]] 
-- [[Les littoraux]] 
-- [[Cartes de révisions]] 
-- [[Conseils pour les oraux de commentaire de cartes]] 
+- [[Les littoraux]] ❤️
+- [[Cartes de révisions]] (pas du tout complet mais très utile)
+- [[Conseils pour les oraux de commentaire de cartes]] ❤️
 - [[Commentaires de carte]] 
 ## Devoirs 
 

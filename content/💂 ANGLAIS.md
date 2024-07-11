@@ -6,6 +6,8 @@
 >  J’en peux plus de l’école numérique. Ecole numérique, école soviétique. – Christophe Repplinger 
 
 Si besoin : blaise.bonneville@pm.me 
+
+J'ai un pdf de *A People and a Nation* si ça intéresse (le fichier est trop lourd pour le site), c'est un des manuels que recommande Bonneville !
 ## Cours du mardi
 
 - [[The mug shot and trumpism]]

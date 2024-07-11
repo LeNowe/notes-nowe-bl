@@ -5,6 +5,8 @@
 
 ## Cours 
 
+⚠️ Les premiers cours d'hypo sont très lacunaires jusqu'à la socialisation
+
 - [[Épistémologie des sciences sociales]]
 - [[Les méthodes sociologiques]]
 - [[L'institutionnalisation de la sociologie]]
@@ -18,7 +20,7 @@
 - [[Rationalité, anticipations et croyances]] 
 - [[Sociologie des discriminations et de la race]] 
 - [[Les politiques de la concurrence et la politique industrielle]] 
-- [[Nouveau manuel de sciences politiques]] 
+- [[Nouveau manuel de sciences politiques]] (peut valoir le coup, tout n'est pas fiché ici)
 - [[Précis de Sociologie - L'avènement de la sociologie]] 
 - [[Précis de sociologie - L’État]] 
 - [[Précis de sociologie - La consommation]] 

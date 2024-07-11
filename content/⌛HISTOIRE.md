@@ -14,31 +14,31 @@ Si besoin : danhenri78@gmail.com
 - [[Le système politique en France]] 
 - [[L'apprentissage de la citoyenneté 1870-1918]] 
 - [[Corrigé CB1- Les Français et la Nation (1870-1918)]] 
-- [[Industrialisation et société]] 
-- [[La France dans la Seconde Guerre Mondiale ( axes de réflexion )]] 
+- [[Industrialisation et société]] ❤️
+- [[La France dans la Seconde Guerre Mondiale ( axes de réflexion )]] ❤️
 - [[La France du travail]] 
 - [[Corrigé DS 1- La droite et la gauche en France de 1870 à 1995]]
 - [[École et société après 1945]] 
 - [[La France une puissance mondiale]] 
-- [[Histoire de l’environnement en France]] 
-- [[Croyances et pratiques religieuses de 1870 à 1995]] 
+- [[Histoire de l’environnement en France]] ❤️
+- [[Croyances et pratiques religieuses de 1870 à 1995]] ❤️
 
 ### Monde
 
-- [[Le fascisme]] 
-- [[Les démocraties libérales face au communisme]] 
+- [[Le fascisme]] (voir drive d'Erwan pour le cours entier ❤️) 
+- [[Les démocraties libérales face au communisme]] (voir drive Vincent ❤️)
 - [[Corrigé CB1 - Pouvoir et société dans les régimes totalitaires]] 
-- [[La guerre froide]] 
+- [[La guerre froide]] (voir drive Vincent ❤️)
 - [[Les médias dans le monde au XXème siècle]] 
 
 ## Fiches
 
 ### France
 
-- [[Plans d’exposés]] 
-- [[Les grandes guerres.pdf]] 
-- [[Mai-juin 1968 et ses suites]] 
-- [[FICHE Les Français et leur empire colonial au XXème siècle.docx - Google Docs.pdf|Les Français et leur Empire]] 
+- [[Plans d’exposés]] ❤️
+- [[Les grandes guerres.pdf]] ❤️
+- [[Mai-juin 1968 et ses suites]] ❤️
+- [[FICHE Les Français et leur empire colonial au XXème siècle.docx - Google Docs.pdf|Les Français et leur Empire]] ❤️
 #### Histoire politique 
 
 - [[Berstein,Winock - L’invention de la Démocratie]] 
@@ -64,7 +64,7 @@ Si besoin : danhenri78@gmail.com
 - [[Reprise CB2 Histoire - La Belle Epoque]] 
 - [[Histoire de la société française au XXe - La Belle époque]]
 - [[Histoire de la société française au XXe - Le temps des crises ( 1914 - 1944 )]]
-- [[La France à l'heure allemande ( 1940-1944 )]]
+- [[La France à l'heure allemande ( 1940-1944 )]] (livre génial mais seule l'intro est fichée...)
 - [[Les classes moyennes en France]] 
 - [[Histoire de l'économie française]] 
 - [[Le syndicalisme en France]] 
@@ -77,16 +77,16 @@ Si besoin : danhenri78@gmail.com
 
 - [[Le temps en France]] 
 - [[La lecture en France]]
-- [[Les loisirs en France]]
+- [[Les loisirs en France]] (voir mon Anki histoire)
 - [[Histoire culturelle de la France]]
 #### Biographies 
 
 - [[Raymond Poincaré]]
-- [[Pétain]]
+- [[Pétain]] 
 
 ### Monde 
 
 -  [[Libéralisme et démocratie de 1919 aux années 1990]] 
 - [[Richesse et pauvreté dans les pays développés à économie de marché]] 
 - [[Le défi communiste]] 
--  [[Les régimes communistes au XXème siècle (fiche).pdf|Les régimes communistes au XXème siècle]]  
+-  [[Les régimes communistes au XXème siècle (fiche).pdf|Les régimes communistes au XXème siècle]] ❤️

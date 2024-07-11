@@ -3,10 +3,15 @@
 ---
 ***
 # Nouveau manuel de sciences politiques
+Sources : 
+- [[lectures NMSP intro.pdf]]
+- [[NMSP vote lehingue .pdf]]
+- [[NMSP hubé recrutement .pdf]]
+- [[NMSP action collective .pdf]]
+- [[NMSP  action publique dubois .pdf]] ❤️
 ***
 ## <u>Introduction : l’analyse des phénomènes politiques</u> 
 
-**Source** = [[lectures NMSP intro.pdf]]
 ### A ) Qu’est ce que la politique ? 
 
 #### 1. Définition fonctionnelle
@@ -47,8 +52,6 @@
 - ⚠ Le savant déconstruit les croyances passées mais ne peut avoir la main sur les croyances que son travail contribue à construire. 
 
 ## <u>I. Les explications du vote</u> 
-
-**Source** = [[NMSP vote lehingue .pdf]]
 
 Historiquement : objectif électoral → scientifique car l’avènement du suffrage Ω ⇒ configurations électorales + ouvertes et + indécises 
 
