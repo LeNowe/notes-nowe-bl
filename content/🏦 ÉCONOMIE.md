@@ -33,7 +33,7 @@
 - [[Le sacro-saint Pyndick]] ❤️
 - [[Articles d'économie]] (très utile même si la plupart des envois de Riri se trouvent en annexe en bas de mes notes) ❤️
 - [[Plans de leçon d’économie]] ❤️ (je m'y suis pris trop tard mais pour les sujets secs Saclay/Lyon/ENSAE il vaut mieux préparer les sujets surtout les plus effrayants)
-- [[content/Documents PDF/Macroéconomie.pdf|Macroéconomie]] ❤️ 
+- [[Macroéconomie.pdf]] ❤️ 
 - [[Comment préparer une khôlle de sciences sociales]]
 - [[Exemplier de sciences sociales]] 
 - [[Théorie de la régulation]] (pas fini, mieux vaut actualiser avec les chapitres récents)
